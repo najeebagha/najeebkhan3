@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @najeebkhan3
-- 👀 I’m interested in ...android native and flutter
+- 👀 I’m interested in ...flutter and just flutter
 - 🌱 I’m currently learning ...flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
