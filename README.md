@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @najeebkhan3
-- 👀 I’m interested in ...flutter and just flutter
-- 🌱 I’m currently learning ...flutter
+- 👀 I’m interested in ...creating new projects
+- 🌱 I’m currently learning ...I’m currently learning Flutter ❤️
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
